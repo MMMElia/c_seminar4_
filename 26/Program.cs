@@ -17,5 +17,5 @@ int num(int a1) {
         a1/=10;
        
             }
-return num;
+return i;
 }
