@@ -6,8 +6,6 @@ int n=int.Parse(Console.ReadLine());
 
 int[]arr=Input(n);
 
-
-
 int[] Input(int n1) 
 {
 int[] array= new int[n1];
