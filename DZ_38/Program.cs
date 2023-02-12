@@ -42,4 +42,4 @@ return s;
 
 double[] arr=input(n);
 
-Console.WriteLine($"Ответ: {otvet(arr,n)}");
+Console.WriteLine($"Ответ:   {otvet(arr,n)}");
